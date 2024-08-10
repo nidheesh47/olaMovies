@@ -6,7 +6,7 @@ function Footer() {
     <div className="bg-black">
       <div className="container text-white-50">
         <div className="row pt-5">
-          <div className="col-lg-6 pe-lg-5 about" id='about'>
+          <div className="col-lg-6 pe-lg-5 about" id="about">
             <h1 className="text-white fs-4">About</h1>
             <p className="pt-3">
               OlaMovies.Top collects the highest quality movies and tv series from the globe and
@@ -21,6 +21,7 @@ function Footer() {
                 Telegram Channel
               </a>
             </p>
+
             <p>Main Domain:</p>
             <p>
               <a href="#" className="text-white-50">
